@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-## Update the config.json file with your postgres data
+## Create a postgres DB &  update the config.json file with your postgres data .
 
 ```bash
 
